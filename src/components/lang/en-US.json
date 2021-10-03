@@ -1,0 +1,25 @@
+{
+	"app.welcome": "Hi, I´m Daniel Pérez",
+	"app.development":  "Front-End Developer",
+	"app.grade": "Mechatronic Engineer",
+	"app.download": "Download VC",
+
+	"nav.skill": "SKILLS",
+	"nav.project": "PROJECTS",
+	"nav.contact": "CONTACT",
+
+	"title.skill": "SKILLS",
+	"title.project": "PROJECTS",
+	"title.contact": "CONTACT",
+	"title.footer": "Developed and Design by Daniel Pérez, &copy Copyright",
+
+	"follow": "Follow Daniel Perez",
+	"contact.me": "Contact me",
+
+	"user.name": "Name",
+	"user.email": "Email",
+	"user.number": "Phone Number",
+	"user.message": "Message",
+	"user.send": "Send"
+
+}

@@ -1,0 +1,25 @@
+{
+	"app.welcome": "Hola, Soy Daniel Pérez",
+	"app.development":  "Desarrollador Front-End",
+	"app.grade": "Ingeniero Mecatrónico",
+	"app.download": "Descargar CV",
+
+	"nav.skill": "HABILIDADES",
+	"nav.project": "PROYECTOS",
+	"nav.contact": "CONTACTOS",
+
+	"title.skill": "HABILIDADES",
+	"title.project": "PROYECTOS",
+	"title.contact": "CONTACTO",
+	"title.footer": "Desarrollado y Diseñado por Daniel Pérez, &copy Derechos Reservados",
+
+	"follow": "Sigue a Daniel Perez",
+	"contact.me": "Contacta me",
+
+	"user.name": "Nombre",
+	"user.email": "Correo Electrónico",
+	"user.number": "Numero de Teléfono",
+	"user.message": "Mensaje",
+	"user.send": "Enviar"
+
+}

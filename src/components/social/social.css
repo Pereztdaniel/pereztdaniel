@@ -1,0 +1,82 @@
+/*CONTACT*/
+
+#contact{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-end;
+	background-color: var(--primary-color);
+}
+
+.social h2{
+	color: var(--white-color);
+	padding: 20px 0;
+	font-size: 30px; 
+}
+
+.link{
+	display: flex;
+}
+
+.link a{
+	margin: 0 30px;
+}
+
+.link a span{
+	color: #cecece;
+	font-size: 3rem;
+}
+
+.link a span:hover{
+	color: var(--secondary-color);
+	opacity: .9;
+}
+
+.new-form{
+	display: hidden;
+	flex-direction: column;
+    align-items: center;
+	transform: translateY(-100px);
+    transition: opacity transform .5s ease-in-out;
+    opacity: 0;
+    z-index: -2;
+}
+
+.show-form{
+	display: flex;
+	transform: translateY(0px);
+	flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    top: 0;
+    left: 0;
+    margin: 0;
+    transition: opacity transform .5s ease-in-out;
+    opacity: 1;
+    z-index: 1;
+
+}
+
+input{
+	border: none;
+	outline: none;
+	padding: 10px;
+	border-radius: 2%;
+	
+}
+
+label{
+	padding: 5px;
+	color: var(--white-color);
+}
+
+textarea{
+	min-height: 150px;
+	min-width: 300px;
+	max-height: 150px;
+	max-width: 300px;
+	border: none;
+	outline: none;
+	padding: 10px;
+	border-radius: 2%;
+}
