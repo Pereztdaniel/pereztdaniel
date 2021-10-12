@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pereztdaniel/static/css/main.52e7c08f.chunk.css",
-    "main.js": "/pereztdaniel/static/js/main.d8f8a3f9.chunk.js",
-    "main.js.map": "/pereztdaniel/static/js/main.d8f8a3f9.chunk.js.map",
+    "main.css": "/pereztdaniel/static/css/main.761da4ef.chunk.css",
+    "main.js": "/pereztdaniel/static/js/main.c884b5fe.chunk.js",
+    "main.js.map": "/pereztdaniel/static/js/main.c884b5fe.chunk.js.map",
     "runtime-main.js": "/pereztdaniel/static/js/runtime-main.e3e32884.js",
     "runtime-main.js.map": "/pereztdaniel/static/js/runtime-main.e3e32884.js.map",
     "static/js/2.712bdf15.chunk.js": "/pereztdaniel/static/js/2.712bdf15.chunk.js",
@@ -10,15 +10,21 @@
     "static/js/3.f230ba0e.chunk.js": "/pereztdaniel/static/js/3.f230ba0e.chunk.js",
     "static/js/3.f230ba0e.chunk.js.map": "/pereztdaniel/static/js/3.f230ba0e.chunk.js.map",
     "index.html": "/pereztdaniel/index.html",
-    "static/css/main.52e7c08f.chunk.css.map": "/pereztdaniel/static/css/main.52e7c08f.chunk.css.map",
+    "static/css/main.761da4ef.chunk.css.map": "/pereztdaniel/static/css/main.761da4ef.chunk.css.map",
     "static/js/2.712bdf15.chunk.js.LICENSE.txt": "/pereztdaniel/static/js/2.712bdf15.chunk.js.LICENSE.txt",
+    "static/media/Frontend-mentor.1c8f32f5.jpg": "/pereztdaniel/static/media/Frontend-mentor.1c8f32f5.jpg",
+    "static/media/calculadora.edb38512.jpg": "/pereztdaniel/static/media/calculadora.edb38512.jpg",
     "static/media/curriculum vitae daniel perez.0fc9266a.pdf": "/pereztdaniel/static/media/curriculum vitae daniel perez.0fc9266a.pdf",
-    "static/media/showcase.css": "/pereztdaniel/static/media/pexels-cottonbro-35849942.9c3d878a.jpg"
+    "static/media/indexeddb.0e65e93b.jpg": "/pereztdaniel/static/media/indexeddb.0e65e93b.jpg",
+    "static/media/showcase.css": "/pereztdaniel/static/media/pexels-cottonbro-35849942.c66418a4.jpg",
+    "static/media/react.3ad3126a.png": "/pereztdaniel/static/media/react.3ad3126a.png",
+    "static/media/travelblog.cb23e8f0.jpg": "/pereztdaniel/static/media/travelblog.cb23e8f0.jpg",
+    "static/media/wordpress.7f9843db.png": "/pereztdaniel/static/media/wordpress.7f9843db.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e3e32884.js",
     "static/js/2.712bdf15.chunk.js",
-    "static/css/main.52e7c08f.chunk.css",
-    "static/js/main.d8f8a3f9.chunk.js"
+    "static/css/main.761da4ef.chunk.css",
+    "static/js/main.c884b5fe.chunk.js"
   ]
 }

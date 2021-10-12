@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 381.3 381.3" style="enable-background:new 0 0 381.3 381.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#666766;stroke-miterlimit:10;}
+	.st1{fill:#6C6C6C;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#6C6C6C;stroke-miterlimit:10;}
+	.st5{fill:#6C6C6C;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<title>icon_engineer_greyonwhite</title>
+<circle class="st0" cx="190.7" cy="190.7" r="190.2"/>
+<polygon class="st1" points="102,237.3 102,336.8 279.3,336.8 279.3,237.3 257.2,230.3 251.6,211.2 193.2,270.1 129.2,211.2 
+	124,229 "/>
+<ellipse class="st1" cx="190" cy="130" rx="80.2" ry="97.2"/>
+<path class="st2" d="M143,119.4h31.6c4.1,0,7.5,3.4,7.5,7.5v12.5c0,4.1-3.4,7.5-7.5,7.5H143c-4.1,0-7.5-3.4-7.5-7.5v-12.5
+	C135.5,122.7,138.8,119.4,143,119.4z"/>
+<path class="st2" d="M206.5,119.4H238c4.1,0,7.5,3.4,7.5,7.5v12.5c0,4.1-3.4,7.5-7.5,7.5h-31.6c-4.1,0-7.5-3.4-7.5-7.5v-12.5
+	C199,122.7,202.3,119.4,206.5,119.4z"/>
+<path class="st3" d="M182,135.6c0,0,8.5-11.7,16.9,0"/>
+<path class="st4" d="M268.6,110.8"/>
+<path class="st4" d="M245.5,114.1"/>
+<line class="st3" x1="245.5" y1="133.1" x2="267.7" y2="125.2"/>
+<line class="st3" x1="135.5" y1="133.1" x2="113.2" y2="125.2"/>
+<g id="EigFxC.tif">
+	<path class="st5" d="M267.5,30.1c-8.3,7-6.2,11.8-0.1,16.6c20.8,16.3,22.9,37.4,16.1,61.3c-5.2,18.2-9.3,36.7-14.4,57.3L252,95.9
+		c-41.2,13.2-83.9,8.6-127.6,1.8c-2.8,22.5,0,45.1-10.1,65.9c-2.1-11.6-3.8-22.7-6.4-33.6c-1.3-5.4-4.5-10.3-6.4-15.6
+		c-4.1-11.3-3.4-21.8,6.4-31.2l-12.8,4.1l-1.6-1.4l28.2-33.6L108.9,43l29.2-3.8L119.9,25c24.9-3.3,49-7.2,73.3-9.5
+		c17.5-1.8,35,3.2,48.8,14c6.5,5,11.8,8.4,18.9,1.7C261.9,30.4,263.9,30.7,267.5,30.1z"/>
+</g>
+</svg>
