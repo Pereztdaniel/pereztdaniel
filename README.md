@@ -6,4 +6,4 @@ Este es mi proyecto como Portafolio, esta desarrollado en React, usando hooks co
 
 Por otro lado, para el formulario de contacto, utilice la librería de EmailJS, para así añadrile la funcionalidad de enviar un correo electrónico por parte del Frontend en páginas estatícas.
 
-![Design preview for the Room homepage coding challenge](./src/capture.png) 
+![Design preview for the Portfolio](./src/capture.png) 
