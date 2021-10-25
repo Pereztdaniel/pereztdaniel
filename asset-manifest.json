@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pereztdaniel/static/css/main.761da4ef.chunk.css",
-    "main.js": "/pereztdaniel/static/js/main.cf444b72.chunk.js",
-    "main.js.map": "/pereztdaniel/static/js/main.cf444b72.chunk.js.map",
+    "main.js": "/pereztdaniel/static/js/main.0221a795.chunk.js",
+    "main.js.map": "/pereztdaniel/static/js/main.0221a795.chunk.js.map",
     "runtime-main.js": "/pereztdaniel/static/js/runtime-main.e3e32884.js",
     "runtime-main.js.map": "/pereztdaniel/static/js/runtime-main.e3e32884.js.map",
     "static/js/2.712bdf15.chunk.js": "/pereztdaniel/static/js/2.712bdf15.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/2.712bdf15.chunk.js.LICENSE.txt": "/pereztdaniel/static/js/2.712bdf15.chunk.js.LICENSE.txt",
     "static/media/Frontend-mentor.1c8f32f5.jpg": "/pereztdaniel/static/media/Frontend-mentor.1c8f32f5.jpg",
     "static/media/calculadora.edb38512.jpg": "/pereztdaniel/static/media/calculadora.edb38512.jpg",
-    "static/media/curriculum vitae daniel perez.4a7d71fb.pdf": "/pereztdaniel/static/media/curriculum vitae daniel perez.4a7d71fb.pdf",
+    "static/media/curriculum vitae daniel perez.e60751b1.pdf": "/pereztdaniel/static/media/curriculum vitae daniel perez.e60751b1.pdf",
     "static/media/indexeddb.1bd395fe.jpg": "/pereztdaniel/static/media/indexeddb.1bd395fe.jpg",
     "static/media/showcase.css": "/pereztdaniel/static/media/pexels-cottonbro-35849942.c66418a4.jpg",
     "static/media/react.3ad3126a.png": "/pereztdaniel/static/media/react.3ad3126a.png",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.e3e32884.js",
     "static/js/2.712bdf15.chunk.js",
     "static/css/main.761da4ef.chunk.css",
-    "static/js/main.cf444b72.chunk.js"
+    "static/js/main.0221a795.chunk.js"
   ]
 }
