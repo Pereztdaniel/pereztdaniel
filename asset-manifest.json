@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pereztdaniel/static/css/main.17354359.chunk.css",
-    "main.js": "/pereztdaniel/static/js/main.46fda241.chunk.js",
-    "main.js.map": "/pereztdaniel/static/js/main.46fda241.chunk.js.map",
+    "main.js": "/pereztdaniel/static/js/main.7c9273c6.chunk.js",
+    "main.js.map": "/pereztdaniel/static/js/main.7c9273c6.chunk.js.map",
     "runtime-main.js": "/pereztdaniel/static/js/runtime-main.56fd860a.js",
     "runtime-main.js.map": "/pereztdaniel/static/js/runtime-main.56fd860a.js.map",
     "static/js/2.0d4c4ca4.chunk.js": "/pereztdaniel/static/js/2.0d4c4ca4.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/bootstrap.c4f0a282.svg": "/pereztdaniel/static/media/bootstrap.c4f0a282.svg",
     "static/media/calculadora.edb38512.jpg": "/pereztdaniel/static/media/calculadora.edb38512.jpg",
     "static/media/catalogo.a1c71e50.jpg": "/pereztdaniel/static/media/catalogo.a1c71e50.jpg",
+    "static/media/cristalvans.8751e558.jpg": "/pereztdaniel/static/media/cristalvans.8751e558.jpg",
     "static/media/css.9882e252.svg": "/pereztdaniel/static/media/css.9882e252.svg",
     "static/media/curriculum vitae daniel perez.12f06bba.pdf": "/pereztdaniel/static/media/curriculum vitae daniel perez.12f06bba.pdf",
     "static/media/git.dd8f1dca.svg": "/pereztdaniel/static/media/git.dd8f1dca.svg",
@@ -24,7 +25,7 @@
     "static/media/js.84ac97b2.svg": "/pereztdaniel/static/media/js.84ac97b2.svg",
     "static/media/material-ui.456bfb02.svg": "/pereztdaniel/static/media/material-ui.456bfb02.svg",
     "static/media/showcase.css": "/pereztdaniel/static/media/pexels-cottonbro-35849942.c66418a4.jpg",
-    "static/media/psicologia.5e7ca76d.jpg": "/pereztdaniel/static/media/psicologia.5e7ca76d.jpg",
+    "static/media/psicologia.a6d8297e.jpg": "/pereztdaniel/static/media/psicologia.a6d8297e.jpg",
     "static/media/react.2960564a.svg": "/pereztdaniel/static/media/react.2960564a.svg",
     "static/media/travelblog.cb23e8f0.jpg": "/pereztdaniel/static/media/travelblog.cb23e8f0.jpg",
     "static/media/wordpress.9422e5ae.svg": "/pereztdaniel/static/media/wordpress.9422e5ae.svg"
@@ -33,6 +34,6 @@
     "static/js/runtime-main.56fd860a.js",
     "static/js/2.0d4c4ca4.chunk.js",
     "static/css/main.17354359.chunk.css",
-    "static/js/main.46fda241.chunk.js"
+    "static/js/main.7c9273c6.chunk.js"
   ]
 }
