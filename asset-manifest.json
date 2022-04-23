@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/pereztdaniel/static/css/main.4e6b233b.chunk.css",
-    "main.js": "/pereztdaniel/static/js/main.3b336109.chunk.js",
-    "main.js.map": "/pereztdaniel/static/js/main.3b336109.chunk.js.map",
-    "runtime-main.js": "/pereztdaniel/static/js/runtime-main.d864bc68.js",
-    "runtime-main.js.map": "/pereztdaniel/static/js/runtime-main.d864bc68.js.map",
-    "static/js/2.7c35a8ef.chunk.js": "/pereztdaniel/static/js/2.7c35a8ef.chunk.js",
-    "static/js/2.7c35a8ef.chunk.js.map": "/pereztdaniel/static/js/2.7c35a8ef.chunk.js.map",
-    "static/js/3.663cab96.chunk.js": "/pereztdaniel/static/js/3.663cab96.chunk.js",
-    "static/js/3.663cab96.chunk.js.map": "/pereztdaniel/static/js/3.663cab96.chunk.js.map",
+    "main.css": "/pereztdaniel/static/css/main.bd333363.chunk.css",
+    "main.js": "/pereztdaniel/static/js/main.5f8ed3d6.chunk.js",
+    "main.js.map": "/pereztdaniel/static/js/main.5f8ed3d6.chunk.js.map",
+    "runtime-main.js": "/pereztdaniel/static/js/runtime-main.588abdb5.js",
+    "runtime-main.js.map": "/pereztdaniel/static/js/runtime-main.588abdb5.js.map",
+    "static/js/2.a852e924.chunk.js": "/pereztdaniel/static/js/2.a852e924.chunk.js",
+    "static/js/2.a852e924.chunk.js.map": "/pereztdaniel/static/js/2.a852e924.chunk.js.map",
+    "static/js/3.c8a4dc3e.chunk.js": "/pereztdaniel/static/js/3.c8a4dc3e.chunk.js",
+    "static/js/3.c8a4dc3e.chunk.js.map": "/pereztdaniel/static/js/3.c8a4dc3e.chunk.js.map",
     "index.html": "/pereztdaniel/index.html",
-    "static/css/main.4e6b233b.chunk.css.map": "/pereztdaniel/static/css/main.4e6b233b.chunk.css.map",
-    "static/js/2.7c35a8ef.chunk.js.LICENSE.txt": "/pereztdaniel/static/js/2.7c35a8ef.chunk.js.LICENSE.txt",
+    "static/css/main.bd333363.chunk.css.map": "/pereztdaniel/static/css/main.bd333363.chunk.css.map",
+    "static/js/2.a852e924.chunk.js.LICENSE.txt": "/pereztdaniel/static/js/2.a852e924.chunk.js.LICENSE.txt",
     "static/media/Frontend-mentor.1c8f32f5.jpg": "/pereztdaniel/static/media/Frontend-mentor.1c8f32f5.jpg",
+    "static/media/api-svgrepo-com.ae247b8f.svg": "/pereztdaniel/static/media/api-svgrepo-com.ae247b8f.svg",
     "static/media/bootstrap.c4f0a282.svg": "/pereztdaniel/static/media/bootstrap.c4f0a282.svg",
     "static/media/calculadora.edb38512.jpg": "/pereztdaniel/static/media/calculadora.edb38512.jpg",
-    "static/media/catalogo.a1c71e50.jpg": "/pereztdaniel/static/media/catalogo.a1c71e50.jpg",
+    "static/media/catalogo.8b451de1.png": "/pereztdaniel/static/media/catalogo.8b451de1.png",
     "static/media/cristalvans.8751e558.jpg": "/pereztdaniel/static/media/cristalvans.8751e558.jpg",
     "static/media/css.9882e252.svg": "/pereztdaniel/static/media/css.9882e252.svg",
     "static/media/curriculum vitae daniel perez.12f06bba.pdf": "/pereztdaniel/static/media/curriculum vitae daniel perez.12f06bba.pdf",
@@ -24,6 +25,7 @@
     "static/media/indexeddb.1bd395fe.jpg": "/pereztdaniel/static/media/indexeddb.1bd395fe.jpg",
     "static/media/js.84ac97b2.svg": "/pereztdaniel/static/media/js.84ac97b2.svg",
     "static/media/material-ui.456bfb02.svg": "/pereztdaniel/static/media/material-ui.456bfb02.svg",
+    "static/media/netflix-clon.dcff6124.png": "/pereztdaniel/static/media/netflix-clon.dcff6124.png",
     "static/media/showcase.css": "/pereztdaniel/static/media/pexels-cottonbro-35849942.c66418a4.jpg",
     "static/media/psicologia.a6d8297e.jpg": "/pereztdaniel/static/media/psicologia.a6d8297e.jpg",
     "static/media/react.2960564a.svg": "/pereztdaniel/static/media/react.2960564a.svg",
@@ -31,9 +33,9 @@
     "static/media/wordpress.9422e5ae.svg": "/pereztdaniel/static/media/wordpress.9422e5ae.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d864bc68.js",
-    "static/js/2.7c35a8ef.chunk.js",
-    "static/css/main.4e6b233b.chunk.css",
-    "static/js/main.3b336109.chunk.js"
+    "static/js/runtime-main.588abdb5.js",
+    "static/js/2.a852e924.chunk.js",
+    "static/css/main.bd333363.chunk.css",
+    "static/js/main.5f8ed3d6.chunk.js"
   ]
 }
